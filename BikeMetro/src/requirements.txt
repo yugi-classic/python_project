@@ -1,0 +1,6 @@
+geopandas
+pandas
+folium
+streamlit_folium
+requests
+streamlit
